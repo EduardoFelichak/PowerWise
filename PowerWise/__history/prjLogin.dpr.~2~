@@ -1,0 +1,17 @@
+program prjLogin;
+
+uses
+  Vcl.Forms,
+  frmPrincipal_U in 'frmPrincipal_U.pas' {Form1},
+  DMConexao in 'DMConexao.pas' {DataModule1: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TDataModule1, DataModule1);
+  Form1.Position := poScreenCenter;
+  Application.Run;
+end.

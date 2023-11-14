@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/30 11:30:32.000.948,=C:\Users\eduardo.felichak\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/30 11:45:37.000.935,C:\Users\eduardo.felichak\Desktop\Estudo\Login\frmPrincipal_U.pas=C:\Users\eduardo.felichak\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/30 11:45:37.000.935,C:\Users\eduardo.felichak\Desktop\Estudo\Login\frmPrincipal_U.dfm=C:\Users\eduardo.felichak\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/10/30 11:46:47.000.161,C:\Users\eduardo.felichak\Desktop\Estudo\Login\prjLogin.dproj=C:\Users\eduardo.felichak\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/11/13 21:04:11.000.207,=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit1.pas</Transaction>
+    <Transaction>2023/11/13 21:04:22.000.478,C:\Users\Softex\Desktop\Projeto\PowerWise\DMConexao.pas=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit1.pas</Transaction>
+    <Transaction>2023/11/13 21:04:22.000.478,C:\Users\Softex\Desktop\Projeto\PowerWise\DMConexao.dfm=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit1.dfm</Transaction>
+    <Transaction>2023/11/13 23:16:21.000.867,=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit2.pas</Transaction>
+    <Transaction>2023/11/13 23:16:35.000.592,C:\Users\Softex\Desktop\Projeto\PowerWise\TelaInicial_U.pas=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit2.pas</Transaction>
+    <Transaction>2023/11/13 23:16:35.000.592,C:\Users\Softex\Desktop\Projeto\PowerWise\TelaInicial_U.dfm=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit2.dfm</Transaction>
+    <Transaction>2023/11/13 23:16:42.000.476,=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit3.pas</Transaction>
+    <Transaction>2023/11/13 23:16:50.000.526,C:\Users\Softex\Desktop\Projeto\PowerWise\Cadastro_U.dfm=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit3.dfm</Transaction>
+    <Transaction>2023/11/13 23:16:50.000.526,C:\Users\Softex\Desktop\Projeto\PowerWise\Cadastro_U.pas=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit3.pas</Transaction>
+    <Transaction>2023/11/13 23:36:36.000.239,=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit1.pas</Transaction>
+    <Transaction>2023/11/13 23:36:44.000.821,C:\Users\Softex\Desktop\Projeto\PowerWise\Unit1.pas=C:\Users\Softex\Desktop\Projeto\PowerWise\DMConexao_U.pas</Transaction>
+    <Transaction>2023/11/13 23:37:05.000.936,C:\Users\Softex\Desktop\Projeto\PowerWise\DMConexao_U.pas=</Transaction>
+    <Transaction>2023/11/13 23:37:09.000.972,=C:\Users\Softex\Desktop\Projeto\PowerWise\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>
